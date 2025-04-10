@@ -1,0 +1,8 @@
+#Today 10-apr-2025
+#I have given edgeverve interview and it sucks because i was not prepared.
+
+1.Tell me about the two issues you face in last 6 month in devops like imgae build?
+2.Tell me about diffrent data type in python?
+3.Diffrence b/w list and tuple?
+4.Syntax of list and tuple?
+5.A python program to find finacle in a string latters should be in order not mandatory to be togther.
