@@ -1,0 +1,5 @@
+If you want to explain the code then can use comment
+two types
+    1. Single line comment - #
+    2. Multi line comment ''' ''' or """ """ the triple quotes are string but get ignore if not assigned to avariable.
+We should write comment for complexe code. which will make it easy to undersatn for other and debugging or can comment some part temporarly.
