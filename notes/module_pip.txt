@@ -1,0 +1,14 @@
+Module:
+A file containing python code. it may have class, function and variable which you can reuse.
+    there are are of two types
+        1. Built in modules:
+            come with python like math, os and random.
+        2. Third party module:
+            ctrated by other and can install with pip like pandas, pygames, django etc
+syntax
+import pyjokes
+print(f"Print a joke: {{pyjokes.get_joke()")
+
+Pip: Pip is python packege manager and use to install third party mudles also known as package.
+syntax:
+pip insatall pyjokes
