@@ -1,0 +1,8 @@
+Python is a high level , interpreted ,genral purpose programming language known for its readablity,simplicity and versatility. It was created by Guido  Van Rossum and first realese in 1991.
+High level : focus on solving problem and abstract the complexe deatails about hardware like memory managemant, low level operations.
+Interpreted: code executed line by line.
+General Purpose: Can be use for data scince, AI, web development, backend, automation and scripting.
+Readablity and simplicity: sytax is like plain english.
+Cross plateform: Write once use anywhere, plateform independent
+Large standard library: like pandas, flask, djanjo etc.
+Community support
