@@ -1,0 +1,47 @@
+variables are the name space to memory location. Variable can store data.
+in Python variables are dynamic means no need to define data type.
+
+Name rule
+1.Varible name can only have alpha numric value and uder score.
+2.Varible name can only start with alphabet or underscore
+3.Varible name can't start with numeric value.
+4.Can't use python reserve keywords.
+5.No space in between the words is allowed.
+
+
+Data type: 
+1.Int
+2.Float
+3.String
+4.Boolean.
+5.none.
+
+colection of data type 
+1.list
+2.tuple
+3.directory
+4.set
+
+
+operator
+1.Arthmatic. (+,-,*,%,/)
+2.logical (and , or not)
+3.comparision (==,!=,>=,<=,<,>
+4.assignment (= , +=,-=,*= and /=)
+
+Type: data type can be print by type menthod.
+
+Type conversion int(),float(), str() etc.
+
+input function to take input data  from user.
+number = int(input("Please write a number: ")) # by default input is a string.
+
+String is sequence of character enclosed in quotes (single, double or triple).
+
+String is immutable.
+firstName = "Naveen"
+lastName = 'Kumar'
+para = '''Naveen is going to be in top 1% devops'''
+
+Slice a string 
+string[startIndex:EndIndex:step]
